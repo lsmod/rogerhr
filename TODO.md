@@ -1,0 +1,7 @@
+- [x] edit
+- [x] auth provider
+- [CANCELED] normalization
+- [x] form validation
+- [x] pagination
+- [x] minimum styling
+- [ ] codecept
