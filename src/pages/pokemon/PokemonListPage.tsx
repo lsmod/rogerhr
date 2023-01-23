@@ -45,7 +45,7 @@ const PokemonListPage = () => {
 
   return (
     <Box>
-      <List>
+      <List id="pokemon-list">
         {pokemons.map((pokemon) => {
           return (
             <ListItem key={pokemon.name}>

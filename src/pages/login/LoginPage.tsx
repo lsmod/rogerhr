@@ -81,6 +81,7 @@ const LoginPage = () => {
               loading={submitting}
               type="submit"
               disabled={invalid}
+              id="login-button"
             >
               login
             </LoadingButton>
